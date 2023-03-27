@@ -5,7 +5,12 @@
 
 This project contains a step-by-step guide on how to connect your on-premises Windows Active Directory to Azure AD using Azure AD Connect. The guide covers how to download and install Azure AD Connect on your servers, create a global admin, and configure synchronization to Azure AD. You'll also find a blog post detailing the process, along with helpful screenshots and tips. Improve your organization's identity management and security by following this comprehensive guide.
 
+<br>
+
 ## Technologies Used
+
+<p align="left" > <img align="right" width=30% src="https://thumbs.gfycat.com/LameDifferentBalloonfish.webp">
+</p>
 <ui>
 <li>Azure
 <li>Windows 2019 server
@@ -14,16 +19,23 @@ This project contains a step-by-step guide on how to connect your on-premises Wi
 <li>AD Connect
 </ui>
 
+<br>
+
 ## Deployment steps
 <ol>
 <li>Create new user with Global Admin permission in Azure Active Directory.
-<li>Downlaode and install AD connect in to both DC02 and DC01 servers.
+<li>Download and install AD connect in to both DC02 and DC01 servers.
 <li>Configure AD Connect.
 <li>Test the connectivity.
 </ol>
 
+<br>
+
 ## Deployment Walkthrough Video
 <i>will be soon</i>
+
+<br>
+
 ## Read More
 <p>To learn more about the Connecting Windows Active Directory to Azure Active Directory, check out my detailed blog post at: 
 <a href="https://medium.com/@sahanwije/connecting-windows-active-directory-to-azure-active-directory-fb03e721917b" title="Medium Blog"> <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"> 
