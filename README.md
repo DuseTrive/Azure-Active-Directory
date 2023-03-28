@@ -32,7 +32,10 @@ This project contains a step-by-step guide on how to connect your on-premises Wi
 <br>
 
 ## Deployment Walkthrough Video
-<i>will be soon</i>
+
+<a href="https://www.youtube.com/watch?v=fRC-G0UqOMA">
+  <img src="https://img.youtube.com/vi/fRC-G0UqOMA/0.jpg" width=50% alt="YouTube video demonstrating step-by-step" style="object-fit: cover; object-position: 50% 0; height: 50%;"><br><p>Connecting Windows Active Directory to Azure Active Directory</p>
+</a>
 
 <br>
 
